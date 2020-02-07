@@ -1,2 +1,10 @@
 # LeetCode
-LeetCode Solutions: A Record of My Problem Solving Journey.
+记录下我在LeetCode刷题的过程。
+### 进度（2/1340）
+- 难易度
+ 	- 简单： 1
+ 	- 中等： 1
+ 	- 困难： 0
+
+- 知识点
+ - 链表： 1
